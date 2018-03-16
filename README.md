@@ -22,3 +22,7 @@ run_decision_tree_on_other_dataset_using_gain_ratio.py : Answer to question 2 us
 3. Run q2_run_decision_tree_on_other_dataset.py for Ques. 2:
   *L and K values used are L = [15,20] and K = [15,20,30,40,50] to get 10 combinations
 4. Run run_decision_tree_on_other_dataset_using_gain_ratio.py for solving Ques.2 using gain ratio based Decision Tree.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
