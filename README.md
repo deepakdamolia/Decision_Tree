@@ -6,12 +6,17 @@ All the scripts are in python 3.5
 ## DESCRIPTION
 
 [decision_tree.py](decision_tree.py): It contains implementation of Decision Tree using "Information Gain" as the selection criterion for the best attribute.
+
 [decision_tree_gain_ratio.py](decision_tree_gain_ratio.py): It contains implementation of Decision Tree using "Gain Ratio" as the selection criterion.
+
 [data_manip.py](data_manip.py): It contains functions to create data partitions, calculate accuracy etc.
+
 [q1_run_decision_tree_on_lenses](q1_run_decision_tree_on_lenses): Answer to question 1 (Please refer [Decision_tree_problems](Decision_tree_problems.pdf))
+
 [q2_run_decision_tree_on_other_dataset.py](q2_run_decision_tree_on_other_dataset.py) : Answer to question 2
 
 [run_decision_tree_on_other_dataset_basic_demo.py](run_decision_tree_on_other_dataset_basic_demo.py): Run it to get an idea of the inner procedures.
+
 [run_decision_tree_on_other_dataset_using_gain_ratio.py](run_decision_tree_on_other_dataset_using_gain_ratio.py) : Answer to question 2 using gain ratio as selection rule
 
 
