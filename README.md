@@ -1,8 +1,9 @@
 # Decision_Tree
+
 Simple implementation of Decision Tree and Pruning. Has working examples on two datasets for demonstration.
 All the scripts are in python 3.5
 
-##DESCRIPTION
+## DESCRIPTION
 
 decision_tree.py: It contains implementation of Decision Tree using "Information Gain" as the selection criterion for the best attribute.
 decision_tree_gain_ratio.py: It contains implementation of Decision Tree using "Gain Ratio" as the selection criterion.
@@ -13,7 +14,7 @@ run_decision_tree_on_other_dataset_basic_demo.py: Run it to get an idea of the i
 run_decision_tree_on_other_dataset_using_gain_ratio.py : Answer to question 2 using gain ratio as selection rule
 
 
-##INSTRUCTIONS
+## INSTRUCTIONS
 1. Keep all the files in same folder (Do not move any of them, as modules are interdependent.)
 2. Run q1_run_decision_tree_on_lenses.py for question 1:
    *5-fold cross validation has been used.
